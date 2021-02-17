@@ -6,5 +6,5 @@ public class Deneme {
     //ucuncu degisiklik
     //mustafa değişiklik 1
     //Mustafa değişiklik 2
-
+// imdat deneme degisiklik 1
 }
