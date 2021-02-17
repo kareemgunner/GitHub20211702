@@ -1,5 +1,6 @@
 package deneme;
 
 public class Deneme {
-// ilk degisiklik
+    // ilk degisiklik
+    // ikinci degisiklik
 }
